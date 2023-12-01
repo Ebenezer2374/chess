@@ -1,0 +1,34 @@
+table{
+    border-color: solid  5px;
+    border-style: solid;
+    border-collapse: collapse;
+    padding:10px;
+    height: 50px;
+    font-size: 30px;
+    }
+td {
+    
+    padding: 30px 30px 30px 30px;
+}
+tr{
+    border-width: 20px;
+    height: 100px;
+
+    }
+.light{
+    background-color: burlywood;
+}
+.dark{
+    background-color:brown;
+}
+div{
+    
+    border-color: goldenrod  ;
+    border-style:solid ;
+    border-radius:10px ;
+    max-width: 43.5%;
+    margin-left: 400px;
+
+    
+
+}
